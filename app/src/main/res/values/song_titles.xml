@@ -431,7 +431,7 @@
 <item>369: Bringing in the Sheaves</item>
 <item>370: Christ for the World</item>
 
-        <!--
+
      <item>371: Lift Him Up</item>
      <item>372: How Beauteous Are Their Feet</item>
      <item>373: Seeking the Lost</item>
@@ -442,180 +442,196 @@
      <item>378: Go, Preach My Gospel</item>
      <item>379: We Give This Child to You</item>
      <item>380: Welcome, Day of Sweet Repose</item>
-     <item>381: Holy Sabbath Day of Rest</item>
-     <item>382: O Day of Rest and Gladness</item>
-     <item>383: O Day of Rest and Gladness</item>
-     <item>384: Safely Through Another Week</item>
-     <item>385: Crowning Jewel of Creation</item>
-     <item>386: The Sacred Anthem</item>
-     <item>387: Come, O Sabbath Day</item>
-     <item>388: Don`t Forget the Sabbath</item>
-     <item>389: Light of Light, Enlighten Me</item>
-     <item>390: We Love Thy Sabbath, Lord</item>
-     <item>391: Welcome, Welcome, Day of Rest</item>
-     <item>392: Dear Lord, We Come at Set of Sun</item>
-     <item>393: Lord of the Sabbath</item>
-     <item>394: Far From All Care</item>
-     <item>395: As Birds Unto the Genial Homeland</item>
-     <item>396: Lord God, Your Love Has Called Us Here</item>
-     <item>397: An Upper Room</item>
-     <item>398: Bread of the World</item>
-     <item>399: Beneath the Forms of Outward Rite</item>
-     <item>400: I Come With Joy</item>
 
-     <item>401: In Imitation, Lord of Thee</item>
-     <item>402: By Christ Redeemed</item>
-     <item>403: Let Us Break Bread Together</item>
-     <item>404: Now Let Us From This Table Rise</item>
-     <item>405: O God, Unseen, Yet Ever Near</item>
-     <item>406: Love Consecrates the Humblest Act</item>
-     <item>407: Sent Forth by God`s Blessing</item>
-     <item>408: Lord, Enthroned in Heavenly Splendor</item>
-     <item>409: Jesus Invites His Saints</item>
-     <item>410: Thy Broken Body, Gracious Lord</item>
-     <item>411: The Son of God Proclaim</item>
-     <item>412: Cover With His Life</item>
-     <item>413: God Has Spoken by His Prophets</item>
-     <item>414: Fruitful Trees, the Spirit`s Sowing</item>
-     <item>415: Christ the Lord, All Power Possessing</item>
-     <item>416: The Judgment Has Set</item>
-     <item>417: O Solemn Thought</item>
-     <item>418: Day of Judgment, Day of Wonders!</item>
-     <item>419: Soon Shall the Trump of God</item>
-     <item>420: Jerusalem, My Happy Home</item>
-     <item>421: For All the Saints</item>
-     <item>422: Marching to Zion</item>
-     <item>423: Glorious Things of Thee Are Spoken</item>
-     <item>424: For Thee, O Dear, Dear Country</item>
-     <item>425: Holy, Holy, Is What the Angels Sing</item>
-     <item>426: I Shall See the King</item>
-     <item>427: No Night There</item>
-     <item>428: Sweet By and By</item>
-     <item>429: Jerusalem the Golden</item>
-     <item>430: Joy By and By</item>
-     <item>431: Over Yonder</item>
-     <item>432: Shall We Gather at the River</item>
-     <item>433: Ten Thousand Times Ten Thousand</item>
-     <item>434: We Speak of the Realms</item>
-     <item>435: The Glory Song</item>
-     <item>436: The Homeland</item>
-     <item>437: I`m Going Home</item>
-     <item>438: You Will See Your Lord A-Coming</item>
-     <item>439: How Far From Home</item>
-     <item>440: How Cheering Is the Christian`s Hope</item>
-     <item>441: I Saw One Weary</item>
-     <item>442: How Sweet Are the Tidings</item>
-     <item>443: There`ll Be No Sorrow There</item>
-     <item>444: I`m a Pilgrim</item>
-     <item>445: I`m But a Stranger Here</item>
-     <item>446: Lo, What a Glorious Sight Appears</item>
-     <item>447: Long Upon the Mountains</item>
-     <item>448: O, When Shall I See Jesus</item>
-     <item>449: Never Part Again</item>
-     <item>450: Beautiful Zion</item>
+    <item>381: Holy Sabbath Day of Rest</item>
+    <item>382: O Day of Rest and Gladness</item>
+    <item>383: O Day of Rest and Gladness</item>
+    <item>384: Safely Through Another Week</item>
+    <item>385: Crowning Jewel of Creation</item>
+    <item>386: The Sacred Anthem</item>
+    <item>387: Come, O Sabbath Day</item>
+    <item>388: Don`t Forget the Sabbath</item>
+    <item>389: Light of Light, Enlighten Me</item>
+    <item>390: We Love Thy Sabbath, Lord</item>
 
-     <item>451: Together Let Us Sweetly Live</item>
-     <item>452: What Heavenly Music</item>
-     <item>453: We Have Heard</item>
-     <item>454: Don`t You See My Jesus Coming</item>
-     <item>455: Immortal Love, Forever Full</item>
-     <item>456: My Lord and I</item>
-     <item>457: I Love to Tell the Story</item>
-     <item>458: More Love to Thee</item>
-     <item>459: As the Bridegroom to His Chosen</item>
-     <item>460: As Water to the Thirsty</item>
-     <item>461: Be Still, My Soul</item>
-     <item>462: Blessed Assurance, Jesus is Mine!</item>
-     <item>463: Peace, Perfect Peace</item>
-     <item>464: When I Can Read My Title Clear</item>
-     <item>465: I Heard the Voice of Jesus</item>
-     <item>466: Wonderful Peace</item>
-     <item>467: Life Is Great! So Sing About It</item>
-     <item>468: A Child of the King</item>
-     <item>469: Leaning on the Everlasting Arms</item>
-     <item>470: There`s Sunshine in My Soul Today</item>
+ <item>391: Welcome, Welcome, Day of Rest</item>
+ <item>392: Dear Lord, We Come at Set of Sun</item>
+ <item>393: Lord of the Sabbath</item>
+ <item>394: Far From All Care</item>
+ <item>395: As Birds Unto the Genial Homeland</item>
+ <item>396: Lord God, Your Love Has Called Us Here</item>
+ <item>397: An Upper Room</item>
+ <item>398: Bread of the World</item>
+ <item>399: Beneath the Forms of Outward Rite</item>
+ <item>400: I Come With Joy</item>
+
+        <item>401: In Imitation, Lord of Thee</item>
+        <item>402: By Christ Redeemed</item>
+        <item>403: Let Us Break Bread Together</item>
+        <item>404: Now Let Us From This Table Rise</item>
+        <item>405: O God, Unseen, Yet Ever Near</item>
+        <item>406: Love Consecrates the Humblest Act</item>
+        <item>407: Sent Forth by God`s Blessing</item>
+        <item>408: Lord, Enthroned in Heavenly Splendor</item>
+        <item>409: Jesus Invites His Saints</item>
+        <item>410: Thy Broken Body, Gracious Lord</item>
+
+       <item>411: The Son of God Proclaim</item>
+       <item>412: Cover With His Life</item>
+       <item>413: God Has Spoken by His Prophets</item>
+       <item>414: Fruitful Trees, the Spirit`s Sowing</item>
+       <item>415: Christ the Lord, All Power Possessing</item>
+       <item>416: The Judgment Has Set</item>
+       <item>417: O Solemn Thought</item>
+       <item>418: Day of Judgment, Day of Wonders!</item>
+       <item>419: Soon Shall the Trump of God</item>
+       <item>420: Jerusalem, My Happy Home</item>
+
+       <item>421: For All the Saints</item>
+       <item>422: Marching to Zion</item>
+       <item>423: Glorious Things of Thee Are Spoken</item>
+       <item>424: For Thee, O Dear, Dear Country</item>
+       <item>425: Holy, Holy, Is What the Angels Sing</item>
+       <item>426: I Shall See the King</item>
+       <item>427: No Night There</item>
+       <item>428: Sweet By and By</item>
+       <item>429: Jerusalem the Golden</item>
+       <item>430: Joy By and By</item>
+
+ <item>431: Over Yonder</item>
+ <item>432: Shall We Gather at the River</item>
+ <item>433: Ten Thousand Times Ten Thousand</item>
+ <item>434: We Speak of the Realms</item>
+ <item>435: The Glory Song</item>
+ <item>436: The Homeland</item>
+ <item>437: I`m Going Home</item>
+ <item>438: You Will See Your Lord A-Coming</item>
+ <item>439: How Far From Home</item>
+ <item>440: How Cheering Is the Christian`s Hope</item>
+
+<item>441: I Saw One Weary</item>
+<item>442: How Sweet Are the Tidings</item>
+<item>443: There`ll Be No Sorrow There</item>
+<item>444: I`m a Pilgrim</item>
+<item>445: I`m But a Stranger Here</item>
+<item>446: Lo, What a Glorious Sight Appears</item>
+<item>447: Long Upon the Mountains</item>
+<item>448: O, When Shall I See Jesus</item>
+<item>449: Never Part Again</item>
+<item>450: Beautiful Zion</item>
+
+        <item>451: Together Let Us Sweetly Live</item>
+        <item>452: What Heavenly Music</item>
+        <item>453: We Have Heard</item>
+        <item>454: Don`t You See My Jesus Coming</item>
+        <item>455: Immortal Love, Forever Full</item>
+        <item>456: My Lord and I</item>
+        <item>457: I Love to Tell the Story</item>
+        <item>458: More Love to Thee</item>
+        <item>459: As the Bridegroom to His Chosen</item>
+        <item>460: As Water to the Thirsty</item>
+
+       <item>461: Be Still, My Soul</item>
+       <item>462: Blessed Assurance, Jesus is Mine!</item>
+       <item>463: Peace, Perfect Peace</item>
+       <item>464: When I Can Read My Title Clear</item>
+       <item>465: I Heard the Voice of Jesus</item>
+       <item>466: Wonderful Peace</item>
+       <item>467: Life Is Great! So Sing About It</item>
+       <item>468: A Child of the King</item>
+       <item>469: Leaning on the Everlasting Arms</item>
+       <item>470: There`s Sunshine in My Soul Today</item>
+
      <item>471: Grant Us Your Peace</item>
-     <item>472: A Song of Heaven and Homeland</item>
-     <item>473: Nearer My God, to Thee</item>
-     <item>474: Take the Name of Jesus With You</item>
-     <item>475: Balm in Gilead</item>
-     <item>476: Burdens Are Lifted at Calvary</item>
-     <item>477: Come, Ye Disconsolate</item>
-     <item>478: Sweet Hour of Prayer</item>
-     <item>479: Tread Softly</item>
-     <item>480: Dear Lord and Father</item>
-     <item>481: Dear Lord and Father</item>
-     <item>482: Father, Lead Me Day by Day</item>
-     <item>483: I Need Thee Every Hour</item>
-     <item>484: I Need Thee, Precious Jesus</item>
-     <item>485: I Must Tell Jesus</item>
-     <item>486: I Do Believe</item>
-     <item>487: In the Garden</item>
-     <item>488: At First I Prayed for Light</item>
-     <item>489: Jesus, Lover of My Soul</item>
-     <item>490: Jesus, Lover of My Soul</item>
-     <item>491: In the Hour of Trial</item>
-     <item>492: Like Jesus</item>
-     <item>493: Fill My Cup, Lord</item>
-     <item>494: We Would See Jesus</item>
-     <item>495: Near to the Heart of God</item>
-     <item>496: Eternal Love, We Have No Good</item>
-     <item>497: O Gracious Father of Mankind</item>
-     <item>498: Still, Still With Thee</item>
-     <item>499: What a Friend We Have in Jesus</item>
-     <item>500: Take Time to Be Holy</item>
 
-     <item>501: `Tis the Blessed Hour of Prayer</item>
-     <item>502: Sun of My Soul</item>
-     <item>503: A Quiet Place</item>
-     <item>504: Lord Jesus, Think on Me</item>
-     <item>505: I Need the Prayers</item>
-     <item>506: A Mighty Fortress</item>
-     <item>507: Moment by Moment</item>
-     <item>508: Anywhere With Jesus</item>
-     <item>509: How Firm a Foundation</item>
-     <item>510: If You But Trust in God to Guide You</item>
-     <item>511: I Know Whom I Have Believed</item>
-     <item>512: Just When I Need Him Most</item>
-     <item>513: In Heavenly Love Abiding</item>
-     <item>514: Lord of Our Life</item>
-     <item>515: The Lord Is My Light</item>
-     <item>516: All the Way</item>
-     <item>517: My Faith Looks Up to Thee</item>
-     <item>518: Standing on the Promises</item>
-     <item>519: Give to the Winds Your Fears</item>
-     <item>520: He Hideth My Soul</item>
-     <item>521: Depth of Mercy</item>
-     <item>522: My Hope Is Built on Nothing Less</item>
-     <item>523: My Faith Has Found a Resting Place</item>
-     <item>524: `Tis So Sweet to Trust in Jesus</item>
-     <item>525: Hiding in Thee</item>
-     <item>526: Because He Lives</item>
-     <item>527: From Every Stormy Wind</item>
-     <item>528: A Shelter in the Time of Storm</item>
-     <item>529: Under His Wings</item>
-     <item>530: It Is Well With My Soul</item>
-     <item>531: We`ll Build on the Rock</item>
-     <item>532: Day by Day</item>
-     <item>533: O for a Faith</item>
-     <item>534: Will Your Anchor Hold</item>
-     <item>535: I Am Trusting Thee, Lord Jesus</item>
-     <item>536: God, Who Stretched</item>
-     <item>537: He Leadeth Me</item>
-     <item>538: Guide Me, O Thou Great Jehovah</item>
-     <item>539: I Will Early Seek the Savior</item>
-     <item>540: Gentle Jesus, Meek and Mild</item>
-     <item>541: Lord, Speak to Me</item>
-     <item>542: Jesus, Friend So Kind</item>
-     <item>543: Jesus, Friend of Little Children</item>
-     <item>544: Jesus, Son of Blessed Mary</item>
-     <item>545: Savior, Like a Shepherd</item>
-     <item>546: The Lord`s My Shepherd</item>
-     <item>547: Be Thou My Vision</item>
-     <item>548: Now Praise the Hidden God of Love</item>
-     <item>549: Loving Shepherd of Thy Sheep</item>
-     <item>550: Every Flower That Grows</item>
+    <item>472: A Song of Heaven and Homeland</item>
+    <item>473: Nearer My God, to Thee</item>
+    <item>474: Take the Name of Jesus With You</item>
+    <item>475: Balm in Gilead</item>
+    <item>476: Burdens Are Lifted at Calvary</item>
+    <item>477: Come, Ye Disconsolate</item>
+    <item>478: Sweet Hour of Prayer</item>
+    <item>479: Tread Softly</item>
+    <item>480: Dear Lord and Father</item>
 
+  <item>481: Dear Lord and Father</item>
+  <item>482: Father, Lead Me Day by Day</item>
+  <item>483: I Need Thee Every Hour</item>
+  <item>484: I Need Thee, Precious Jesus</item>
+  <item>485: I Must Tell Jesus</item>
+  <item>486: I Do Believe</item>
+  <item>487: In the Garden</item>
+  <item>488: At First I Prayed for Light</item>
+  <item>489: Jesus, Lover of My Soul</item>
+  <item>490: Jesus, Lover of My Soul</item>
+
+<item>491: In the Hour of Trial</item>
+<item>492: Like Jesus</item>
+<item>493: Fill My Cup, Lord</item>
+<item>494: We Would See Jesus</item>
+<item>495: Near to the Heart of God</item>
+<item>496: Eternal Love, We Have No Good</item>
+<item>497: O Gracious Father of Mankind</item>
+<item>498: Still, Still With Thee</item>
+<item>499: What a Friend We Have in Jesus</item>
+<item>500: Take Time to Be Holy</item>
+
+
+<item>501: `Tis the Blessed Hour of Prayer</item>
+<item>502: Sun of My Soul</item>
+<item>503: A Quiet Place</item>
+<item>504: Lord Jesus, Think on Me</item>
+<item>505: I Need the Prayers</item>
+<item>506: A Mighty Fortress</item>
+<item>507: Moment by Moment</item>
+<item>508: Anywhere With Jesus</item>
+<item>509: How Firm a Foundation</item>
+<item>510: If You But Trust in God to Guide You</item>
+
+<item>511: I Know Whom I Have Believed</item>
+<item>512: Just When I Need Him Most</item>
+<item>513: In Heavenly Love Abiding</item>
+<item>514: Lord of Our Life</item>
+<item>515: The Lord Is My Light</item>
+<item>516: All the Way</item>
+<item>517: My Faith Looks Up to Thee</item>
+<item>518: Standing on the Promises</item>
+<item>519: Give to the Winds Your Fears</item>
+<item>520: He Hideth My Soul</item>
+
+<item>521: Depth of Mercy</item>
+<item>522: My Hope Is Built on Nothing Less</item>
+<item>523: My Faith Has Found a Resting Place</item>
+<item>524: `Tis So Sweet to Trust in Jesus</item>
+<item>525: Hiding in Thee</item>
+<item>526: Because He Lives</item>
+<item>527: From Every Stormy Wind</item>
+<item>528: A Shelter in the Time of Storm</item>
+<item>529: Under His Wings</item>
+<item>530: It Is Well With My Soul</item>
+
+<item>531: We`ll Build on the Rock</item>
+<item>532: Day by Day</item>
+<item>533: O for a Faith</item>
+<item>534: Will Your Anchor Hold</item>
+<item>535: I Am Trusting Thee, Lord Jesus</item>
+<item>536: God, Who Stretched</item>
+<item>537: He Leadeth Me</item>
+<item>538: Guide Me, O Thou Great Jehovah</item>
+<item>539: I Will Early Seek the Savior</item>
+<item>540: Gentle Jesus, Meek and Mild</item>
+
+ <item>541: Lord, Speak to Me</item>
+ <item>542: Jesus, Friend So Kind</item>
+ <item>543: Jesus, Friend of Little Children</item>
+ <item>544: Jesus, Son of Blessed Mary</item>
+ <item>545: Savior, Like a Shepherd</item>
+ <item>546: The Lord`s My Shepherd</item>
+ <item>547: Be Thou My Vision</item>
+ <item>548: Now Praise the Hidden God of Love</item>
+ <item>549: Loving Shepherd of Thy Sheep</item>
+ <item>550: Every Flower That Grows</item>
+        <!--
      <item>551: Jesus, Savior, Pilot Me</item>
      <item>552: The Lord`s My Shepherd</item>
      <item>553: Jesus, Guide Our Way</item>
