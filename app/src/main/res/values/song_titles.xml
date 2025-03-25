@@ -631,7 +631,7 @@
  <item>548: Now Praise the Hidden God of Love</item>
  <item>549: Loving Shepherd of Thy Sheep</item>
  <item>550: Every Flower That Grows</item>
-        <!--
+
      <item>551: Jesus, Savior, Pilot Me</item>
      <item>552: The Lord`s My Shepherd</item>
      <item>553: Jesus, Guide Our Way</item>
@@ -642,111 +642,123 @@
      <item>558: For the Fruits of His Creation</item>
      <item>559: Now Thank We All Our God</item>
      <item>560: Let All Things Now Living</item>
-     <item>561: We Plow the Fields</item>
-     <item>562: Come, Sing a Song of Harvest</item>
-     <item>563: Praise and Thanksgiving</item>
-     <item>564: For Sunrise Hope and Sunset Calm</item>
-     <item>565: For the Beauty of the Earth</item>
-     <item>566: Father, We Thank You</item>
-     <item>567: Have Thine Own Way, Lord</item>
-     <item>568: Make Me a Captive, Lord</item>
-     <item>569: Pass Me Not, O Gentle Savior</item>
-     <item>570: Not I, But Christ</item>
-     <item>571: What Does the Lord Require</item>
-     <item>572: Give of Your Best to the Master</item>
-     <item>573: I`ll Go Where You Want Me to Go</item>
-     <item>574: O Master, Let Me Walk With Thee</item>
-     <item>575: Let Your Heart Be Broken</item>
-     <item>576: Awake, Awake to Love and Work</item>
-     <item>577: In the Heart of Jesus</item>
-     <item>578: So Send I You</item>
-     <item>579: `Tis Love That Makes Us Happy</item>
-     <item>580: This Little Light of Mine</item>
-     <item>581: When the Church of Jesus</item>
-     <item>582: Working, O Christ, With Thee</item>
-     <item>583: You That Know the Lord</item>
-     <item>584: There`s a Spirit in the Air</item>
-     <item>585: When Christ Was Lifted From the Earth</item>
-     <item>586: What Joy It Is to Worship Here</item>
-     <item>587: In Christ There Is No East nor West</item>
-     <item>588: Lord of All Nations</item>
-     <item>589: Holy Spirit, Gracious Guest</item>
-     <item>590: Trust and Obey</item>
-     <item>591: In Our Work and in Our Play</item>
-     <item>592: Watchman, Tell Us of the Night</item>
-     <item>593: In Times Like These</item>
-     <item>594: Heir of the Kingdom</item>
-     <item>595: Let Every Lamp Be Burning</item>
-     <item>596: Look for the Waymarks</item>
-     <item>597: Ye Servants of the Lord</item>
-     <item>598: Watch, Ye Saints</item>
-     <item>599: Rejoice, Rejoice, Believers</item>
-     <item>600: Hold Fast Till I Come</item>
 
-     <item>601: Watchmen, on the Walls of Zion</item>
-     <item>602: O Brother, Be Faithful</item>
-     <item>603: Christian, Seek Not Repose</item>
-     <item>604: We Know Not the Hour</item>
-     <item>605: My Soul, Be on Thy Guard</item>
-     <item>606: Once to Every Man and Nation</item>
-     <item>607: God of Grace and God of Glory</item>
-     <item>608: Faith Is the Victory</item>
-     <item>609: Am I a Soldier of the Cross</item>
-     <item>610: Stand Like the Brave</item>
-     <item>611: Awake, My Soul!</item>
-     <item>612: Onward, Christian Soldiers!</item>
-     <item>613: Fight the Good Fight</item>
-     <item>614: Sound the Battle Cry</item>
-     <item>615: Rise Up, O Church of God</item>
-     <item>616: Soldiers of Christ, Arise</item>
-     <item>617: We Are Living, We Are Dwelling</item>
-     <item>618: Stand Up! Stand Up for Jesus!</item>
-     <item>619: Lead On, O King Eternal</item>
-     <item>620: On Jordan`s Stormy Banks</item>
-     <item>621: Gracious Father, Guard Thy Children</item>
-     <item>622: Come, Come, Ye Saints</item>
-     <item>623: I Will Follow Thee</item>
-     <item>624: I Want Jesus to Walk With Me</item>
-     <item>625: Higher Ground</item>
-     <item>626: In a Little While We`re Going Home</item>
-     <item>627: Jacob`s Ladder</item>
-     <item>628: As Jacob With Travel Was Weary</item>
-     <item>629: O Happy Band of Pilgrims</item>
-     <item>630: Rise, My Soul, and Stretch Thy Wings</item>
-     <item>631: When on Life a Darkness Falls</item>
-     <item>632: Until Then</item>
-     <item>633: When We All Get to Heaven</item>
-     <item>634: Come, All Christians, Be Committed</item>
-     <item>635: Lord of All Good</item>
-     <item>636: God, Whose Giving Knows No Ending</item>
-     <item>637: Son of God, Eternal Savior</item>
-     <item>638: The Wise May Bring Their Learning</item>
-     <item>639: A Diligent and Grateful Heart</item>
-     <item>640: For Beauty of Meadows</item>
-     <item>641: God in His Love for Us</item>
-     <item>642: We Praise Thee With Our Minds</item>
-     <item>643: Father, Who on Us Do Shower</item>
-     <item>644: O God, Whose Will Is Life and Good</item>
-     <item>645: God of our fathers</item>
-     <item>646: To the Name That Brings Salvation</item>
-     <item>647: Mine Eyes Have Seen the Glory</item>
-     <item>648: I Vow to Thee, My Country</item>
-     <item>649: Lord, While for All Mankind We Pray</item>
-     <item>650: Our Father, by Whose Name</item>
+    <item>561: We Plow the Fields</item>
+    <item>562: Come, Sing a Song of Harvest</item>
+    <item>563: Praise and Thanksgiving</item>
+    <item>564: For Sunrise Hope and Sunset Calm</item>
+    <item>565: For the Beauty of the Earth</item>
+    <item>566: Father, We Thank You</item>
+    <item>567: Have Thine Own Way, Lord</item>
+    <item>568: Make Me a Captive, Lord</item>
+    <item>569: Pass Me Not, O Gentle Savior</item>
+    <item>570: Not I, But Christ</item>
 
-     <item>651: Happy the Home That Welcomes You</item>
-     <item>652: Love at Home</item>
-     <item>653: Lead Them, My God, to Thee</item>
-     <item>654: Lord, Bless Our Homes</item>
-     <item>655: Happy the Home</item>
-     <item>656: O Perfect Love</item>
-     <item>657: O God, From Whom Mankind</item>
-     <item>658: Heavenly Father, Hear Our Prayer</item>
-     <item>659: May the Grace of Christ Our Savior</item>
-     <item>660: Glory Be to the Father</item>
+<item>571: What Does the Lord Require</item>
+<item>572: Give of Your Best to the Master</item>
+<item>573: I`ll Go Where You Want Me to Go</item>
+<item>574: O Master, Let Me Walk With Thee</item>
+<item>575: Let Your Heart Be Broken</item>
+<item>576: Awake, Awake to Love and Work</item>
+<item>577: In the Heart of Jesus</item>
+<item>578: So Send I You</item>
+<item>579: `Tis Love That Makes Us Happy</item>
+<item>580: This Little Light of Mine</item>
+
+<item>581: When the Church of Jesus</item>
+<item>582: Working, O Christ, With Thee</item>
+<item>583: You That Know the Lord</item>
+<item>584: There`s a Spirit in the Air</item>
+<item>585: When Christ Was Lifted From the Earth</item>
+<item>586: What Joy It Is to Worship Here</item>
+<item>587: In Christ There Is No East nor West</item>
+<item>588: Lord of All Nations</item>
+<item>589: Holy Spirit, Gracious Guest</item>
+<item>590: Trust and Obey</item>
+
+<item>591: In Our Work and in Our Play</item>
+<item>592: Watchman, Tell Us of the Night</item>
+<item>593: In Times Like These</item>
+<item>594: Heir of the Kingdom</item>
+<item>595: Let Every Lamp Be Burning</item>
+<item>596: Look for the Waymarks</item>
+<item>597: Ye Servants of the Lord</item>
+<item>598: Watch, Ye Saints</item>
+<item>599: Rejoice, Rejoice, Believers</item>
+<item>600: Hold Fast Till I Come</item>
+
+
+<item>601: Watchmen, on the Walls of Zion</item>
+<item>602: O Brother, Be Faithful</item>
+<item>603: Christian, Seek Not Repose</item>
+<item>604: We Know Not the Hour</item>
+<item>605: My Soul, Be on Thy Guard</item>
+<item>606: Once to Every Man and Nation</item>
+<item>607: God of Grace and God of Glory</item>
+<item>608: Faith Is the Victory</item>
+<item>609: Am I a Soldier of the Cross</item>
+<item>610: Stand Like the Brave</item>
+
+<item>611: Awake, My Soul!</item>
+<item>612: Onward, Christian Soldiers!</item>
+<item>613: Fight the Good Fight</item>
+<item>614: Sound the Battle Cry</item>
+<item>615: Rise Up, O Church of God</item>
+<item>616: Soldiers of Christ, Arise</item>
+<item>617: We Are Living, We Are Dwelling</item>
+<item>618: Stand Up! Stand Up for Jesus!</item>
+<item>619: Lead On, O King Eternal</item>
+<item>620: On Jordan`s Stormy Banks</item>
+
+<item>621: Gracious Father, Guard Thy Children</item>
+<item>622: Come, Come, Ye Saints</item>
+<item>623: I Will Follow Thee</item>
+<item>624: I Want Jesus to Walk With Me</item>
+<item>625: Higher Ground</item>
+<item>626: In a Little While We`re Going Home</item>
+<item>627: Jacob`s Ladder</item>
+<item>628: As Jacob With Travel Was Weary</item>
+<item>629: O Happy Band of Pilgrims</item>
+<item>630: Rise, My Soul, and Stretch Thy Wings</item>
+
+<item>631: When on Life a Darkness Falls</item>
+<item>632: Until Then</item>
+<item>633: When We All Get to Heaven</item>
+<item>634: Come, All Christians, Be Committed</item>
+<item>635: Lord of All Good</item>
+<item>636: God, Whose Giving Knows No Ending</item>
+<item>637: Son of God, Eternal Savior</item>
+<item>638: The Wise May Bring Their Learning</item>
+<item>639: A Diligent and Grateful Heart</item>
+<item>640: For Beauty of Meadows</item>
+
+<item>641: God in His Love for Us</item>
+<item>642: We Praise Thee With Our Minds</item>
+<item>643: Father, Who on Us Do Shower</item>
+<item>644: O God, Whose Will Is Life and Good</item>
+<item>645: God of our fathers</item>
+<item>646: To the Name That Brings Salvation</item>
+<item>647: Mine Eyes Have Seen the Glory</item>
+<item>648: I Vow to Thee, My Country</item>
+<item>649: Lord, While for All Mankind We Pray</item>
+<item>650: Our Father, by Whose Name</item>
+
+    <item>651: Happy the Home That Welcomes You</item>
+    <item>652: Love at Home</item>
+    <item>653: Lead Them, My God, to Thee</item>
+    <item>654: Lord, Bless Our Homes</item>
+    <item>655: Happy the Home</item>
+    <item>656: O Perfect Love</item>
+    <item>657: O God, From Whom Mankind</item>
+    <item>658: Heavenly Father, Hear Our Prayer</item>
+    <item>659: May the Grace of Christ Our Savior</item>
+    <item>660: Glory Be to the Father</item>
+
      <item>661: Holy, Holy, Holy</item>
      <item>662: Let All Mortal Flesh Keep Silence</item>
-     <item>663: Amens</item>
+      <item>663: Amens</item>
+     <item>663A: Dresden Amen</item>
+      <item>663B: Amen</item>
      <item>664: Sevenfold Amen</item>
      <item>665: All Things Come of Thee</item>
      <item>666: Cast Thy Burden Upon the Lord</item>
@@ -754,36 +766,41 @@
      <item>668: O Thou Who Hearest</item>
      <item>669: The Lord Bless You and Keep You</item>
      <item>670: We Give Thee But Thine Own</item>
-     <item>671: Now, Dear Lord, As We Pray</item>
-     <item>672: Spirit of the Living God</item>
-     <item>673: May God Be With You</item>
-     <item>674: Shalom</item>
-     <item>675: May the Lord Bless and Keep You</item>
-     <item>676: Thy Word Is a Lantern</item>
-     <item>677: Heavenly Father, to Thee We Pray</item>
-     <item>678: God Be in My Head</item>
-     <item>679: God Be in My Head</item>
-     <item>680: Holy Spirit, Hear Us</item>
-     <item>681: This Is the Day the Lord Hath Made</item>
-     <item>682: As You Have Promised, Lord</item>
-     <item>683: Jesus, Stand Among Us</item>
-     <item>684: Hear Our Prayer, O Lord</item>
-     <item>685: Cause Me to Hear</item>
-     <item>686: Bless Thou the Gifts</item>
-     <item>687: The Lord Is in His Holy Temple</item>
-     <item>688: Surely, Surely</item>
-     <item>689: Day by Day, Dear Lord</item>
-     <item>690: Dismiss Us, Lord With Blessing</item>
-     <item>691: Lead Me, Lord</item>
-     <item>692: The Lord Is in His Holy Temple</item>
-     <item>693: Almighty Father</item>
-     <item>694: Praise God, From Whom All Blessings</item>
-     <item>695: Praise God, From Whom All Blessings</item>
-     <item>696: I will extol the Lord</item>
-     <item>697: Shout With Joy To God, All The Earth!</item>
-     <item>698: How Lovely is Thy Dwelling Place</item>
 
-     -->
+    <item>671: Now, Dear Lord, As We Pray</item>
+    <item>672: Spirit of the Living God</item>
+    <item>673: May God Be With You</item>
+    <item>674: Shalom</item>
+    <item>675: May the Lord Bless and Keep You</item>
+    <item>676: Thy Word Is a Lantern</item>
+    <item>677: Heavenly Father, to Thee We Pray</item>
+    <item>678: God Be in My Head</item>
+    <item>679: God Be in My Head</item>
+    <item>680: Holy Spirit, Hear Us</item>
+
+    <item>681: This Is the Day the Lord Hath Made</item>
+    <item>682: As You Have Promised, Lord</item>
+    <item>683: Jesus, Stand Among Us</item>
+    <item>684: Hear Our Prayer, O Lord</item>
+    <item>685: Cause Me to Hear</item>
+    <item>686: Bless Thou the Gifts</item>
+    <item>687: The Lord Is in His Holy Temple</item>
+    <item>688: Surely, Surely</item>
+    <item>689: Day by Day, Dear Lord</item>
+    <item>690: Dismiss Us, Lord With Blessing</item>
+
+   <item>691: Lead Me, Lord</item>
+   <item>692: The Lord Is in His Holy Temple</item>
+   <item>693: Almighty Father</item>
+   <item>694: Praise God, From Whom All Blessings</item>
+   <item>695: Praise God, From Whom All Blessings</item>
+   <item>696: I will extol the Lord</item>
+   <item>697: Shout With Joy To God, All The Earth!</item>
+   <item>698: How Lovely is Thy Dwelling Place</item>
+   <item>699: O Come, Let Us Sing Unto the Lord</item>
+   <item>700: Oh, Sing to the Lord a New Song</item>
+        <!--
+        -->
 
     </string-array>
 </resources>
